@@ -9,7 +9,7 @@ export default function Header () {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="headline" color="inherit">
-            exercises
+            Exercise Database
           </Typography>
         </Toolbar>
       </AppBar>
